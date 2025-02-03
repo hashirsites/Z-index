@@ -1,0 +1,23 @@
+
+img{ 
+    width: 700px;
+    height: 500px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: -1;
+   
+}
+
+h1{
+    position: absolute;
+    left: 200px;
+    top: 200px;
+    background-color: rgb(197, 241, 227,0.5);
+}
+p{
+    position: absolute;
+    left: 195px;
+    top: 250px;
+    background-color: rgb(197, 241, 227,0.5);
+}
